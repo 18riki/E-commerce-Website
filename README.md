@@ -1,1 +1,1 @@
-https://e-commerce-edu-furniture.netlify.app
+https://e-commerce-edu.netlify.app/
