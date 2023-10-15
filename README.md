@@ -1,1 +1,1 @@
-https://e-commerce-edu.netlify.app/
+https://e-commerce-18.netlify.app/
